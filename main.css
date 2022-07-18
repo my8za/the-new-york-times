@@ -1,11 +1,12 @@
-.logo {
+.head-line {
   margin-top: 1em;
   display: flex;
   justify-content: center;
 }
-.logo svg {
+.head-line svg {
   width: 430px;
 }
+
 .menus {
   margin-top: 1em;
   display: flex;
@@ -20,12 +21,14 @@
   margin: 5px;
 }
 .menus button:hover {
-  background-color: beige;
+  background-color: lightblue;
 }
+
 .news-img-size {
   max-width: 100%;
   max-height: 250px;
 }
+
 .news {
-  border-bottom: 2px solid #000;
+  border-bottom: 1px solid #000;
 }
